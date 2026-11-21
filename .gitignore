@@ -1,0 +1,15 @@
+# Local DB credentials (never commit real passwords)
+java-app/config.properties
+config.properties
+
+# Compiled Java artifacts & IDE caches
+java-app/bin/
+bin/
+out/
+*.class
+*.jar.bak
+*.log
+
+# macOS / OS files
+.DS_Store
+Thumbs.db
