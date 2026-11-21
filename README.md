@@ -38,7 +38,6 @@ PDM-Group9-Employee-Attendance-System/
 │   ├── 01_schema_and_data.sql       # DDL, secondary indexes, and 314 sample rows (>= 15 rows/table)
 │   ├── 01b_triggers.sql             # 6 business-rule triggers (ISA disjointness, cycle guard, reviewer role)
 │   └── 02_queries_and_updates.sql   # DML, COMMIT/ROLLBACK transactions, View, and Q1–Q12
-└── diagrams/                        # ERD (ERDPlus / Draw.io / PNG) & Reverse-Engineered Schema (DBeaver)
 ```
 
 ---
